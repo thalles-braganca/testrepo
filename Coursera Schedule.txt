@@ -1,0 +1,59 @@
+Semana de 14 a 20 de Novembro:
+
+- Week 1: IBM Data Science with R - Capstone Project
+- Week 1: IBM Data Engineering Capstone Project
+- Week 1: IBM Data Engineering and Machine Learning using Spark
+- Week 1: IBM Introduction to Big Data with Spark and Hadoop
+- Week 1: IBM ETL and Data Pipelines with Shell, Airflow, and Kafka
+- Week 1: IBM Python Project for Data Engineering
+- Week 1: IBM Applied Data Science Capstone
+- Week 1: IBM Machine Learning with Python
+- Week 1: IBM Data Visualization with Python
+- Week 1: IBM Databases and SQL for Data Science with Python
+- Week 1: IBM Python Project for Data Science
+- Week 1: IBM Python for Data Science, AI & Development
+- Week 1: IBM Data Analysis with Python 
+
+-/-
+
+-14 cursos para terminar em menos de uma semana!
+-Eu quero! Eu posso! Eu consigo!
+
+-/-
+
+Semana de 21 a 27 de Novembro: (ADICIONAR OS DEMAIS QUE COMECAM NESTA SEMANA!)
+- Week 1: UCDAVIS SQL for Data Science Capstone Project
+- Week 1: Google IT Automation with Python Professional Certificate
+- Week 1: UCDAVIS Distributed Computing with Spark SQL
+- Week 1: UCDAVIS Data Wrangling, Analysis, and AB Testing with SQL
+- Week 1: UCDAVIS SQL for Data Science
+- Week 1: UCT Julia Scientific Programming
+- Week 1: UCSD Introduction to Big Data
+- Week 1: SAS Getting Started with SAS Programming
+- Week 1: Functional Programming Principles in Scala
+- Week 2: PWC Effective Business Presentations with Powerpoint
+- Week 3: IBM Introduction to Data Analytics
+- Week 2: IBM Introduction to Relational Databases (RDBMS)
+- Week 2: IBM Relational Database Administration (DBA)
+- Week 2: PWC Data-driven Decision Making
+- Week 2: PWC Problem Solving with Excel
+- Week 2: PWC Data Visualization with Advanced Excel
+- Week 2: IBM Data Science Methodology
+- Week 2: IBM Tools for Data Science
+- Week 2: Google Data Analysis with R Programming
+- Week 2: IBM Data Analysis with R
+- Week 2: IBM Introduction to R Programming for Data Science
+- Week 2: IBM Data Visualization with R
+- Week 2: IBM SQL for Data Science with R
+- Week 3 & 4: UMICH Introduction to Structured Query Language (SQL)
+- Week 2: Google IT Security: Defense against the digital dark arts
+- Week 2: Google Operating Systems and You: Becoming a Power User
+- Week 2: Google Ask Questions to Make Data-Driven Decisions
+- Week 2: Google Prepare Data for Exploration
+- Week 2: Google Process Data from Dirty to Clean
+- Week 2: Google Analyze Data to Answer Questions
+- Week 2: Google Share Data Through the Art of Visualization
+- Week 3: IBM Introduction to Data Engineering
+- Week 2: IBM Getting Started with Data Warehousing and BI Analytics
+- Week 2: IBM Hands-on Introduction to Linux Commands and Shell Scripting
+- Week 2: IBM Introduction to NoSQL Databases
